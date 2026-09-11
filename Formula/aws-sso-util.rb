@@ -3,7 +3,7 @@ class AwsSsoUtil < Formula
 
   desc "Utilities for AWS IAM Identity Center, including shared SSO session support"
   homepage "https://github.com/itschago/aws-sso-util"
-  url "https://github.com/itschago/aws-sso-util/archive/refs/tags/v4.33.0-nycbs.1.tar.gz"
+  url "https://github.com/itschago/aws-sso-util/archive/refs/tags/v4.40.tar.gz"
   sha256 "REPLACE_WITH_RELEASE_TARBALL_SHA256"
   license "Apache-2.0"
 
